@@ -1,6 +1,6 @@
  Hola Mundo! 👋
 
-Soy desarrolladora web  principiante e inmersa desde varios años en el mundo de la programación y la informática .
+Soy desarrolladora web  FrontEnd principiante e inmersa desde varios años en el mundo de la programación y la informática .
                     
    Me encanta programar con las nuevas tecnologías y aplicarlas para crear objetos.
     Autodidacta de las nuevas tecnologías en programación Java Script, maquetado con HTML y estilos 
